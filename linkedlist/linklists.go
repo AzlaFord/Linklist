@@ -1,5 +1,7 @@
 package linkedlist
 
+// linked list logic
+
 import "fmt"
 
 type Node struct {
